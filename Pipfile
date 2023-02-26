@@ -26,4 +26,3 @@ flake8 = "*"
 
 [scripts]
 tests = "pytest -v -m 'not internet' "
-

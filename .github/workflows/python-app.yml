@@ -1,8 +1,6 @@
 name: Requests html CI
 
-on:
-  pull_request:
-    branches: [ "master" ]
+on: [push]
 
 permissions:
   contents: read
